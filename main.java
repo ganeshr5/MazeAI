@@ -1,4 +1,3 @@
-# Main code
 import java.awt.Color;
 import java.awt.Graphics;
 import java.io.BufferedReader;
